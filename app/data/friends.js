@@ -1,7 +1,7 @@
 var answerArray = [
 	{
 		name: 'Spongebob Squarepants',
-		photo: 'https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.ebayimg.com%2Fimages%2Fg%2F6GAAAOSwRgJXjlHR%2Fs-l300.jpg&imgrefurl=https%3A%2F%2Fwww.ebay.co.uk%2Fitm%2FNickelodeon-Spongebob-Squarepants-Bath-Yellow-Sponge-Children-Kids-Bath-Gift-%2F371687701045&docid=S99IkzsjNq0PwM&tbnid=krLlpEXB3Dvv7M%3A&vet=10ahUKEwjIu5H2nIvaAhUHH6wKHR_vDlAQMwjeASgGMAY..i&w=300&h=281&bih=803&biw=1440&q=spongebob%20squarepants&ved=0ahUKEwjIu5H2nIvaAhUHH6wKHR_vDlAQMwjeASgGMAY&iact=mrc&uact=8',
+		photo: 'https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Spongebob-squarepants.svg/1200px-Spongebob-squarepants.svg.png',
 		scores: [
 			'1',
 			'5',
@@ -17,7 +17,7 @@ var answerArray = [
 	},
 	{
 		name: 'Patrick',
-		photo: 'https://www.google.com/imgres?imgurl=https%3A%2F%2Fpixel.nymag.com%2Fimgs%2Fdaily%2Fselectall%2F2018%2F03%2F05%2F05-patrick.w710.h473.jpg&imgrefurl=http%3A%2F%2Fnymag.com%2Fselectall%2F2018%2F03%2Fevil-patrick-meme-spongebob-tweets.html&docid=WBtOCotm8MJstM&tbnid=Hcyocbrd2GDWAM%3A&vet=10ahUKEwiJjp-VnYvaAhURXa0KHd9tCjQQMwg1KAIwAg..i&w=710&h=473&bih=803&biw=1440&q=patrick%20star&ved=0ahUKEwiJjp-VnYvaAhURXa0KHd9tCjQQMwg1KAIwAg&iact=mrc&uact=8',
+		photo: 'https://pixel.nymag.com/imgs/daily/selectall/2018/03/05/05-patrick.w710.h473.jpg',
 		scores: [
 			'2',
 			'4',
@@ -33,7 +33,7 @@ var answerArray = [
 	},
 	{
 		name: 'Sandy',
-		photo: 'https://www.google.com/imgres?imgurl=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fspongebobfanon%2Fimages%2F8%2F86%2FSandy_Spongepocalypse.PNG%2Frevision%2Flatest%3Fcb%3D20170930145828&imgrefurl=http%3A%2F%2Fspongebobfanon.wikia.com%2Fwiki%2FSandy_Cheeks_(Spongepocalypse)&docid=zJFZ-dDD-gS-rM&tbnid=t4FNl5S5GaB2DM%3A&vet=10ahUKEwiOkLihnYvaAhVDMqwKHTBHCOkQMwiYAigHMAc..i&w=1070&h=800&bih=803&biw=1440&q=sandy%20cheeks&ved=0ahUKEwiOkLihnYvaAhVDMqwKHTBHCOkQMwiYAigHMAc&iact=mrc&uact=8',
+		photo: 'https://vignette.wikia.nocookie.net/p__/images/9/9d/365px-Sandy_Cheeks.svg.png/revision/latest?cb=20120112182505&path-prefix=protagonist',
 		scores: [
 			'4',
 			'3',
@@ -49,7 +49,7 @@ var answerArray = [
 	},
 	{
 		name: 'Mr. Crabs',
-		photo: 'https://www.google.com/imgres?imgurl=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fspongebob%2Fimages%2F8%2F8b%2FMr._Krabs_with_a_Mustache.png%2Frevision%2Flatest%3Fcb%3D20161023162913&imgrefurl=http%3A%2F%2Fspongebob.wikia.com%2Fwiki%2FFile%3AMr._Krabs_with_a_Mustache.png&docid=036egId9h99MXM&tbnid=O_g8VtWOPg7tLM%3A&vet=10ahUKEwiH9Z3TnYvaAhVQZKwKHXddCsYQMwjvASgGMAY..i&w=432&h=597&bih=803&biw=1440&q=mr%20crabs&ved=0ahUKEwiH9Z3TnYvaAhVQZKwKHXddCsYQMwjvASgGMAY&iact=mrc&uact=8',
+		photo: 'https://vignette.wikia.nocookie.net/spongebob/images/9/9f/Krabs_artwork.PNG/revision/latest?cb=20171223013253',
 		scores: [
 			'5',
 			'1',
@@ -65,7 +65,7 @@ var answerArray = [
 	},
 	{
 		name: 'Squidward',
-		photo: 'https://www.google.com/imgres?imgurl=http%3A%2F%2Fi0.kym-cdn.com%2Fentries%2Ficons%2Foriginal%2F000%2F024%2F790%2Fsquidward.jpg&imgrefurl=http%3A%2F%2Fknowyourmeme.com%2Fmemes%2Fsquidward-tentacles&docid=suLHQs8XS4jwPM&tbnid=6Poyu1mfwnpApM%3A&vet=10ahUKEwjim7egnovaAhVOmK0KHUuhAZsQMwj6ASgCMAI..i&w=800&h=450&bih=803&biw=1440&q=squidward&ved=0ahUKEwjim7egnovaAhVOmK0KHUuhAZsQMwj6ASgCMAI&iact=mrc&uact=8',
+		photo: 'http://i0.kym-cdn.com/entries/icons/original/000/024/790/squidward.jpg',
 		scores: [
 			'1',
 			'1',
