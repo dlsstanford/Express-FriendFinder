@@ -78,7 +78,7 @@
 
                         <div class="input-field col s12">
                             <h3>Question 2</h3>
-                            <h5>Do you prefer outdoor activities (beach) over indoor activities (movies)?</h5>
+                            <h5>you prefer outdoor activities (beach) over indoor activities (movies)</h5>
                             <select id="question2">
                                 <option value="" disabled selected>Choose your option</option>
                                 <option value="1">1 (Strongly Disagree)</option>
@@ -133,11 +133,11 @@
                             <h5>Would you consider yourself a coach, mentor or buddy?</h5>
                             <select id="question6">
                                 <option value="" disabled selected>Choose your option</option>
-                                <option value="1">1 (Strongly Disagree)</option>
+                                <option value="1">1 (Not at all)</option>
                                 <option value="2">2</option>
                                 <option value="3">3</option>
                                 <option value="4">4</option>
-                                <option value="5">5 (Strongly Agree)</option>
+                                <option value="5">5 (Very much so)</option>
                             </select>
                         </div>
 
@@ -146,11 +146,11 @@
                             <h5>How important is respecting other opinions to you?</h5>
                             <select id="question7">
                                 <option value="" disabled selected>Choose your option</option>
-                                <option value="1">1 (Strongly Disagree)</option>
+                                <option value="1">1 (I couldn't care less)</option>
                                 <option value="2">2</option>
                                 <option value="3">3</option>
                                 <option value="4">4</option>
-                                <option value="5">5 (Strongly Agree)</option>
+                                <option value="5">5 (Very Impotant)</option>
                             </select>
                         </div>
 
@@ -250,8 +250,6 @@
                     $('#question10').val().trim()
                 ]
             };
-            // console.log('userInput = ' + JSON.stringify(userInput));
-            // Add user inputs to friends list
             if (userSurvey) {
             $.post('/api/friends', userSurvey)
                 .done(function (data) {
