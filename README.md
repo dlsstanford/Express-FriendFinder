@@ -3,6 +3,8 @@
 This full-stack 'dating service' application takes in results from a user survey, then compares their answers with those from other users. The app then displays the name and picture of the user with the best overall match. Express.js is used for routing within the app.
 > Demo Application can be viewed at: https://cupids-arrow-911.herokuapp.com/
 
+![Speak Easy](/app/public/images/4.jpg)
+
 ## Technologies Used
 - Node.js
 - Express
